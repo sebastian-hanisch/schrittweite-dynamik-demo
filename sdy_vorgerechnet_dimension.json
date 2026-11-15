@@ -1,0 +1,64 @@
+{
+ "beschreibung": "Newton-Fraktal z^3 = 1: Anteile der Einzugsgebiete in der Scheibe |z| <= 1,5, Unsicherheitsexponent und Box-Z\u00e4hlung der Grenze",
+ "seed": 7001,
+ "punkte": 1500000,
+ "radius": 1.5,
+ "anteile": [
+  0.333284,
+  0.3334666666666667,
+  0.33324933333333334
+ ],
+ "ohne_konvergenz": 0.0,
+ "unsicherheit": {
+  "eps": [
+   0.03,
+   0.01,
+   0.003,
+   0.001,
+   0.0003,
+   0.0001
+  ],
+  "anteil": [
+   0.074424,
+   0.040857333333333336,
+   0.020806666666666668,
+   0.011296674197782798,
+   0.005826,
+   0.003183333333333333
+  ],
+  "alpha": 0.5534442391642516,
+  "dimension": 1.4465557608357484
+ },
+ "box": {
+  "pixel": 4001,
+  "halbe_breite": 1.5,
+  "boxgroessen": [
+   2,
+   4,
+   8,
+   16,
+   32,
+   64,
+   128
+  ],
+  "boxen_mit_rand": [
+   96355,
+   34349,
+   12364,
+   4464,
+   1653,
+   609,
+   229
+  ],
+  "randpixel_anteil": 0.01701561612845976,
+  "randpixel": 272386,
+  "dimension_4_bis_64": 1.4538351050004905,
+  "dimension_2_bis_16": 1.476997433840165,
+  "anteile_im_quadrat": [
+   0.3452546011210269,
+   0.3273961564595105,
+   0.3273492424194626
+  ]
+ },
+ "rechenzeit_sekunden": 66
+}
