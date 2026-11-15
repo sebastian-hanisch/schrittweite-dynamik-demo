@@ -1,7 +1,6 @@
 # Schrittweite als Dynamik: Gradientenabstieg jenseits von 2/η, Periodenverdopplung und Newton-Fraktal – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-schrittweite-dynamik-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-schrittweite-dynamik-demo.streamlit.app/)**
 
 Stück 5 der Linie **„Dynamische Systeme“** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Kante: **fix** zu
 [Stück 1 (Iterieren und Fixpunkt)](https://github.com/sebastian-hanisch/fixpunkt-iteration-demo). Stück 1 zeigt auf einer Quadratik: Die Iteration x → (1 − ηλ)x konvergiert genau für η < 2/λ, darüber wächst sie;
